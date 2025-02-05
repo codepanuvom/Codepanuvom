@@ -94,6 +94,15 @@ The primary difference between `git fetch` and `git pull` is that:
 
 **In general, it's often a good practice to use `git fetch` followed by `git merge` instead of `git pull`. This gives you more control over the merging process and helps prevent accidental merges.**
 
+## What is a Pull Request?  
+
+A **Pull Request (PR)** is a way to propose changes to a repository. It allows contributors to:  
+- Suggest new features, bug fixes, or documentation improvements.  
+- Review code collaboratively before merging it into the main project.  
+- Discuss and refine changes before they are accepted.  
+
+PRs are typically used in open-source and team projects to ensure high-quality contributions.  
+
 ## Try it out!
 
 * Try cloning this repo with `git clone`.
